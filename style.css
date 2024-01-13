@@ -1,0 +1,60 @@
+  
+  *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+  }
+  .image1 {
+      width: 100vw;
+      height:50vh;
+
+  }
+  .image1 img {
+      width:60%;
+      height:100%;
+
+  }
+  .gallery {
+      
+height:auto;
+width:310px;
+float:left;
+padding:5px;
+margin:5px;
+}
+img {
+ 
+    width: 310px;
+    height:200px;
+}
+
+.lowerphoto {
+clear:both;
+width:100vw;
+height:100vh;
+
+
+}
+.lowerphoto img {
+width:60%;
+height:60%;
+border:10px solid black;
+}
+ .text {
+     position: absolute;
+
+     background-color:black;
+     color:white;
+     width:960px;
+     height:300px;
+     text-align-last: bottom;
+ }
+ .lastimage img {
+     
+     height:300px;
+     width:400px;
+    position:relative;
+    left:500px;
+    bottom:600px;
+
+ }
